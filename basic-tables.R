@@ -119,5 +119,5 @@ message("Results when interpreted as raw change in number of first-year Pell stu
 print(raw_change_table)
 
 # Percentage of institutions in Times' data that have decreased their share of Pell-eligible students: ~= 48%
-# Percentage of calculable (not unknown) institutions in expanded IPEDS data that have definitively decreased their raw numbers: 49% (not including 25% unknown in total)
+# Percentage of calculable (not unknown) institutions in expanded IPEDS data that have definitively decreased their raw numbers: ~= 49% (not including 25% unknown in total)
 
