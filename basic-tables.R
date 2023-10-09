@@ -118,8 +118,6 @@ raw_change_table$Percentage_Of_All_Institutions <- (raw_change_table$Num_Institu
 message("Results when interpreted as raw change in number of first-year Pell students:")
 print(raw_change_table)
 
-# Assertion by the New York Times: "over the past decade, ... most schools have seen their number of these students decrease."
 # Percentage of institutions in Times' data that have decreased their share of Pell-eligible students: ~= 48%
 # Percentage of calculable (not unknown) institutions in expanded IPEDS data that have definitively decreased their raw numbers: 49% (not including 25% unknown in total)
-# It's possible that the missing institutions (24% of those in the original table) change the result
 
