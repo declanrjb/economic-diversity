@@ -1,0 +1,287 @@
+"Simpsons_Rank","Times_Rank","Preserved_Name","State","Type","Freshmen_Pell_share","Simpsons","Pell_change_since_2011","Total_undergraduates","Endowment_per_student","Net_price,_mid-income","Freshmen_Non_Pell_share"
+1,"5","College of the Ozarks","MO","Private",50,50.1650165016502,-20,1500,"$403,000","$7,200",50
+2,"6","Agnes Scott College","GA","Private",47,50.0024908424908,4,1000,"$237,000","$11,800",53
+3,"7","Florida International University","FL","Public",47,49.8382290523235,-4,49000,"$7,000","$8,300",53
+4,"8","Pacific Union College","CA","Private",43,49.3342307692308,5,1000,"$42,000","$19,500",57
+5,"9","Houghton College","NY","Private",42,49.01,-1,900,"$92,000","$18,100",58
+6,"11","Brescia University","KY","Private",41,48.6941558441558,-17,900,"$24,000","$13,900",59
+7,"12","Stockton University","NJ","Public",41,48.4143607954545,0,8800,"$5,000","$19,200",59
+8,"13","Earlham College","IN","Private",40,48.3287671232877,9,700,"$619,000","$17,300",60
+9,"17","Hampshire College","MA","Private",39,48.3009090909091,17,500,"$110,000","$23,500",61
+10,"15","Millsaps College","MS","Private",40,48.2874251497006,19,700,"$148,000","$24,500",60
+11,"14","Lake Forest College","IL","Private",40,48.1243523316062,-2,1600,"$62,000","$19,800",60
+12,"18","Lyon College","AR","Private",39,47.8414285714286,-13,700,"$173,000","$12,500",61
+13,"16","Christian Brothers University","TN","Private",39,47.7499285714286,-9,1500,"$35,000","$13,800",61
+14,"19","Stony Brook University","NY","Public",39,47.5943963691377,1,18000,"$19,000","$19,200",61
+15,"21","King University","TN","Private",38,47.420127388535,-4,1400,"$24,000","$20,100",62
+16,"22","Loyola University New Orleans","LA","Private",38,47.1816753926702,5,3200,"$80,000","$20,400",62
+17,"23","Beloit College","WI","Private",37,46.872,13,1000,"$88,000","$15,100",63
+18,"24","University of the Pacific","CA","Private",37,46.6852027972028,2,3500,"$168,000","$14,600",63
+19,"26","New College of Florida","FL","Public",35,45.7916666666667,9,600,"$78,000","$5,200",65
+20,"25","Knox College","IL","Private",35,45.6666666666667,8,1200,"$188,000","$18,800",65
+21,"27","Willamette University","OR","Private",35,45.6413043478261,8,1300,"$270,000","$29,100",65
+22,"29","New Mexico Institute of Mining and Technology","NM","Public",34,45.0414388489209,5,1200,"$71,000","$11,000",66
+23,"30","Southwestern University","TX","Private",34,45.0046666666667,10,1500,"$235,000","$22,400",66
+24,"28","Mount St. Mary’s University","MD","Private",34,44.9494736842105,6,2100,"$30,000","$22,600",66
+25,"31","University at Buffalo","NY","Public",34,44.8902302256667,6,22300,"$45,000","$20,400",66
+26,"33","College of the Atlantic","ME","Private",33,44.7592682926829,-10,400,"$237,000","$18,200",67
+27,"34","Hanover College","IN","Private",33,44.3843866171004,0,1000,"$176,000","$17,900",67
+28,"32","Allegheny College","PA","Private",33,44.3308270676692,4,1700,"$182,000","$19,400",67
+29,"40","William Jewell College","MO","Private",32,43.7443298969072,0,700,"$91,000","$15,100",68
+30,"35","Austin College","TX","Private",32,43.6487573964497,0,1300,"$150,000","$20,500",68
+31,"36","Illinois Institute of Technology","IL","Private",32,43.605,4,3100,"$100,000","$19,200",68
+32,"38","University of Idaho","ID","Public",32,43.5512419239052,-6,8400,"$53,000","$11,100",68
+33,"37","Rowan University","NJ","Public",32,43.539808830223,1,15900,"$23,000","$23,500",68
+34,"2","Salem College","NC","Private",69,43.1394957983193,16,500,"$155,000","$9,400",31
+35,"41","University of Dallas","TX","Private",31,42.8931746031746,5,1400,"$69,000","$13,100",69
+36,"42","University of Evansville","IN","Private",31,42.888578680203,0,2000,"$91,000","$21,700",69
+37,"43","Bennington College","VT","Private",30,42.3065693430657,6,700,"$58,000","$22,700",70
+38,"44","Kalamazoo College","MI","Private",30,42.1096605744125,12,1500,"$211,000","$20,800",70
+39,"45","Ramapo College of New Jersey","NJ","Public",30,42.0422535211268,5,5400,"$3,000","$14,500",70
+40,"46","Rochester Institute of Technology","NY","Private",30,42.0135396518375,-5,13400,"$112,000","$25,900",70
+41,"52","Transylvania University","KY","Private",29,41.3353962264151,1,1000,"$211,000","$22,800",71
+42,"49","Cornell College","IA","Private",29,41.322491349481,-4,1000,"$90,000","$17,800",71
+43,"51","Mount Holyoke College","MA","Private",29,41.2705054945055,8,1900,"$508,000","$12,200",71
+44,"54","University of South Florida","FL","Public",29,41.1874091399784,-13,38600,"$19,000","$9,100",71
+45,"57","Hendrix College","AR","Private",28,40.450064516129,7,1100,"$210,000","$10,300",72
+46,"56","George Mason University","VA","Public",28,40.3317653924716,3,27100,"$7,000","$17,400",72
+47,"60","University of Central Florida","FL","Public",28,40.3252864822342,-2,61400,"$4,000","$10,000",72
+48,"62","University of Alaska, Fairbanks","AK","Public",27,39.4969921875,-4,5900,"$40,000","$9,900",73
+49,"61","Augustana College","IL","Private",27,39.4927306273063,2,2400,"$88,000","$18,900",73
+50,"63","Bard College","NY","Private",26,38.5862983425414,6,2100,"$75,000","$23,200",74
+51,"65","Illinois Wesleyan University","IL","Private",26,38.5674545454546,6,1600,"$168,000","$23,100",74
+52,"67","SUNY College at Geneseo","NY","Public",26,38.5235294117647,5,4800,"$8,000","$18,400",74
+53,"69","University of Maine","ME","Public",26,38.4991157476403,-8,9500,"$50,000","$15,600",74
+54,"64","Binghamton University","NY","Public",26,38.4934781085814,0,14300,"$9,000","$20,400",74
+55,"68","University of Illinois, Urbana-Champaign","IL","Public",26,38.4851492038003,5,33700,"$68,000","$11,700",74
+56,"76","St. John’s College","NM","Private",25,37.9464285714286,-19,300,"$337,000","$39,300",75
+57,"77","St. John’s College","MD","Private",25,37.9464285714286,4,400,"$380,000","$26,600",75
+58,"75","Rollins College","FL","Private",25,37.5745526838966,-2,2600,"$157,000","$22,300",75
+59,"74","Macalester College","MN","Private",25,37.5686813186813,7,2000,"$380,000","$17,700",75
+60,"78","Susquehanna University","PA","Private",25,37.5655594405594,2,2200,"$84,000","$24,600",75
+61,"73","Gustavus Adolphus College","MN","Private",25,37.5639931740614,-3,2200,"$124,000","$17,000",75
+62,"79","University of Arizona","AZ","Public",25,37.5069793411502,-7,35400,"$37,000","$16,800",75
+63,"71","Florida State University","FL","Public",25,37.5063376711171,-3,32500,"$28,000","$10,700",75
+64,"81","Bard College at Simon’s Rock","MA","Private",24,36.7790163934426,-12,300,"$300","$27,800",76
+65,"84","Lawrence University","WI","Private",24,36.5783288409703,4,1400,"$335,000","$15,300",76
+66,"82","Berry College","GA","Private",24,36.5391247974068,-5,2000,"$614,000","$20,400",76
+67,"88","University of South Dakota","SD","Public",24,36.5114211886305,-9,7100,"$57,000","$19,100",76
+68,"83","Hofstra University","NY","Private",24,36.5064347826087,0,6100,"$143,000","$33,400",76
+69,"87","University of Oregon","OR","Public",24,36.4895024746028,1,18000,"$67,000","$15,900",76
+70,"90","University of Utah","UT","Public",24,36.4886589128887,4,24600,"$61,000","$7,100",76
+71,"91","Claremont McKenna College","CA","Private",23,35.5338906752412,8,1300,"$991,000","$15,700",77
+72,"93","St. Mary’s College of Maryland","MD","Public",23,35.5142021276596,9,1500,"$28,000","$15,600",77
+73,"99","Wheaton College","MA","Private",23,35.4937916666667,1,1700,"$144,000","$23,600",77
+74,"96","University of Rhode Island","RI","Public",23,35.4308053691275,-3,14900,"$23,000","$18,100",77
+75,"98","West Virginia University","WV","Public",23,35.4279097811523,-8,20500,"$37,000","$13,700",77
+76,"108","Thomas Aquinas College","CA","Private",22,34.6013114754098,-15,500,"$58,000","$19,300",78
+77,"100","Centre College","KY","Private",22,34.4177777777778,6,1300,"$320,000","$16,200",78
+78,"101","Grinnell College","IA","Private",22,34.4155988857939,-2,1500,"$1,994,000","$20,100",78
+79,"107","Swarthmore College","PA","Private",22,34.4120107238606,8,1400,"$1,920,000","$11,600",78
+80,"116","Wheaton College","IL","Private",22,34.3915,2,2300,"$279,000","$19,200",78
+81,"114","University of Tulsa","OK","Private",22,34.3912033195021,1,2900,"$475,000","$23,700",78
+82,"105","St. Lawrence University","NY","Private",22,34.3802105263158,3,2300,"$179,000","$21,200",78
+83,"104","Milwaukee School of Engineering","WI","Private",22,34.3801050788091,-4,2500,"$36,000","$17,800",78
+84,"115","Wellesley College","MA","Private",22,34.379274611399,3,2300,"$1,244,000","$10,800",78
+85,"106","St. Olaf College","MN","Private",22,34.3671428571429,5,3000,"$240,000","$13,700",78
+86,"102","Harvard University","MA","Private",22,34.3444096728307,4,8500,"$6,768,000","$500",78
+87,"103","Loyola University Chicago","IL","Private",22,34.3361963190184,-7,11600,"$77,000","$25,500",78
+88,"113","University of Mississippi","MS","Public",22,34.3314782608696,-8,16200,"$53,000","$14,700",78
+89,"110","University of Connecticut","CT","Public",22,34.3290197109067,3,18900,"$31,000","$20,900",78
+90,"112","University of Kentucky","KY","Public",22,34.3271664230528,-3,22200,"$88,000","$16,400",78
+91,"111","University of Florida","FL","Public",22,34.3254476190476,-7,34900,"$68,000","$5,600",78
+92,"124","Pomona College","CA","Private",21,33.2633668341708,6,1500,"$1,981,000","$5,800",79
+93,"117","Amherst College","MA","Private",21,33.2566281755196,-2,1700,"$2,133,000","$7,100",79
+94,"126","Trinity University","TX","Private",21,33.2324170616114,4,2500,"$695,000","$9,600",79
+95,"127","Truman State University","MO","Public",21,33.2264055944056,1,4400,"$19,000","$10,900",79
+96,"123","Pepperdine University","CA","Private",21,33.2257655172414,-10,3500,"$277,000","$27,700",79
+97,"125","Seattle University","WA","Private",21,33.2216311166876,-3,4200,"$74,000","$30,800",79
+98,"121","Massachusetts Institute of Technology","MA","Private",21,33.2110383536015,2,4400,"$6,406,000","—",79
+99,"122","Michigan Technological University","MI","Public",21,33.2077424749164,-7,5600,"$28,000","$11,300",79
+100,"132","Yale University","CT","Private",21,33.206270783848,8,4700,"$6,772,000","$4,000",79
+101,"120","Marquette University","WI","Private",21,33.2001579586877,1,8000,"$114,000","$22,300",79
+102,"119","Fordham University","NY","Private",21,33.1960289855072,2,9400,"$99,000","$31,300",79
+103,"131","University of Southern California","CA","Private",21,33.1896565774156,3,19800,"$382,000","$18,600",79
+104,"148","Williams College","MA","Private",20,32.0665280665281,-1,2000,"$1,872,000","$1,300",80
+105,"135","Clark University","MA","Private",20,32.0662525879917,1,2200,"$214,000","$20,800",80
+106,"136","Dickinson College","PA","Private",20,32.0655737704918,8,1900,"$291,000","$3,900",80
+107,"140","Muhlenberg College","PA","Private",20,32.062015503876,12,2000,"$145,000","$18,700",80
+108,"138","Gettysburg College","PA","Private",20,32.0500782472613,7,2500,"$159,000","$23,400",80
+109,"137","Drake University","IA","Private",20,32.0434192672999,1,2800,"$100,000","$24,800",80
+110,"144","Stevens Institute of Technology","NJ","Private",20,32.0348964013086,-5,3800,"$66,000","$32,400",80
+111,"139","Johns Hopkins University","MD","Private",20,32.0228082679971,8,6300,"$1,347,000","$4,100",80
+112,"142","Rensselaer Polytechnic Institute","NY","Private",20,32.0218728639781,1,6300,"$156,000","$24,800",80
+113,"134","Chapman University","CA","Private",20,32.0203691915977,2,7400,"$76,000","$32,500",80
+114,"143","Stanford University","CA","Private",20,32.019937694704,4,6400,"$5,969,000","$4,600",80
+115,"141","Northwestern University","IL","Private",20,32.0168421052632,5,8600,"$1,288,000","$6,900",80
+116,"133","Boston University","MA","Private",20,32.0109927859842,3,16900,"$158,000","$15,000",80
+117,"146","University of Kansas","KS","Public",20,32.008558438085,-2,19100,"$132,000","$17,200",80
+118,"155","Lewis & Clark College","OR","Private",19,30.8403529411765,-1,1800,"$157,000","$28,300",81
+119,"158","Smith College","MA","Private",19,30.8385171102661,-1,2200,"$1,103,000","$18,900",81
+120,"151","Colorado College","CO","Private",19,30.8372118959108,7,2000,"$421,000","$17,100",81
+121,"165","Vassar College","NY","Private",19,30.832705479452,-8,2500,"$568,000","$23,700",81
+122,"157","Middlebury College","VT","Private",19,30.8312146422629,9,2600,"$561,000","$13,100",81
+123,"149","Babson College","MA","Private",19,30.8311295681063,2,2500,"$244,000","$19,400",81
+124,"150","Cedarville University","OH","Private",19,30.8136761487965,2,4000,"$12,000","$19,700",81
+125,"156","Loyola University Maryland","MD","Private",19,30.8109346733668,5,3800,"$78,000","$24,700",81
+126,"152","Emory University","GA","Private",19,30.8029359165425,-4,7000,"$1,557,000","$15,500",81
+127,"162","University of Rochester","NY","Private",19,30.8025991189427,0,6500,"$404,000","$24,100",81
+128,"154","Lehigh University","PA","Private",19,30.8024835646457,3,5200,"$316,000","$22,100",81
+129,"161","University of Pennsylvania","PA","Private",19,30.7932672413793,3,11200,"$1,839,000","$3,300",81
+130,"179","University of Puget Sound","WA","Private",18,29.597277486911,-3,1900,"$241,000","$17,800",82
+131,"173","Occidental College","CA","Private",18,29.5936159600998,-7,1800,"$302,000","$14,800",82
+132,"182","Ursinus College","PA","Private",18,29.5877064220183,-12,1500,"$106,000","$25,800",82
+133,"170","Hamilton College","NY","Private",18,29.5875514874142,1,1900,"$685,000","$14,800",82
+134,"185","Wofford College","SC","Private",18,29.5796363636364,-7,1800,"$244,000","$23,200",82
+135,"167","Barnard College","NY","Private",18,29.5637333333333,-4,2700,"$166,000","$21,000",82
+136,"184","Wesleyan University","CT","Private",18,29.561057023644,2,2900,"$508,000","$10,300",82
+137,"180","University of San Diego","CA","Private",18,29.5497580645161,2,5500,"$127,000","$20,100",82
+138,"174","Princeton University","NJ","Private",18,29.5456027753686,7,4800,"$7,748,000","$7,000",82
+139,"166","American University","DC","Private",18,29.5386363636364,3,8000,"$110,000","$15,200",82
+140,"183","Vanderbilt University","TN","Private",18,29.5374468085106,5,7100,"$1,536,000","$9,100",82
+141,"169","Cornell University","NY","Private",18,29.5290886699507,3,14700,"$626,000","$4,000",82
+142,"175","Syracuse University","NY","Private",18,29.5284705882353,-7,14500,"$106,000","$21,400",82
+143,"177","University of Iowa","IA","Public",18,29.5266203184571,1,22300,"$148,000","$18,300",82
+144,"176","University of Arkansas","AR","Public",18,29.5263023057216,-6,22800,"$77,000","$14,400",82
+145,"171","New York University","NY","Private",18,29.5244411012487,-2,27400,"$191,000","$30,900",82
+146,"196","Kettering University","MI","Private",17,28.3037388724035,-17,1700,"$59,000","$32,200",83
+147,"187","Bryn Mawr College","PA","Private",17,28.2988268156424,-1,1300,"$886,000","$23,800",83
+148,"192","DePauw University","IN","Private",17,28.2940682414698,-5,1800,"$444,000","$14,300",83
+149,"190","Connecticut College","CT","Private",17,28.2851732101617,4,1700,"$226,000","$20,300",83
+150,"188","Carleton College","MN","Private",17,28.2824336283186,4,1900,"$618,000","$14,800",83
+151,"186","Brandeis University","MA","Private",17,28.2576769025367,-2,3500,"$318,000","$18,900",83
+152,"195","Hope College","MI","Private",17,28.256133162612,-5,3100,"$101,000","$21,600",83
+153,"204","University of Richmond","VA","Private",17,28.255903307888,3,3300,"$1,014,000","$13,400",83
+154,"200","Rice University","TX","Private",17,28.2484475806452,1,4100,"$1,941,000","$6,300",83
+155,"199","Providence College","RI","Private",17,28.2483618090452,1,4300,"$74,000","$25,200",83
+156,"191","Dartmouth College","NH","Private",17,28.2467234848485,4,4200,"$1,969,000","$12,300",83
+157,"197","Missouri University of Science and Technology","MO","Public",17,28.2457012750455,-11,6100,"$50,000","$12,600",83
+158,"189","Case Western Reserve University","OH","Private",17,28.2416411042945,-4,5400,"$412,000","$21,000",83
+159,"194","Georgia College & State University","GA","Public",17,28.2407958732498,-3,5600,"$12,000","$19,700",83
+160,"206","University of Wyoming","WY","Public",17,28.2401571428571,-4,9300,"$94,000","$9,600",83
+161,"202","University of North Dakota","ND","Public",17,28.2379974489796,-6,9800,"$40,000","$15,900",83
+162,"193","George Washington University","DC","Private",17,28.2344866529774,4,11800,"$220,000","$18,900",83
+163,"201","University of Delaware","DE","Public",17,28.226811489259,4,19300,"$102,000","$16,900",83
+164,"219","Whitman College","WA","Private",16,26.9802985074627,2,1400,"$608,000","$30,400",84
+165,"211","Haverford College","PA","Private",16,26.9607207207207,0,1300,"$458,000","$14,600",84
+166,"213","Taylor University","IN","Private",16,26.9447710843374,-10,2100,"$61,000","$23,900",84
+167,"212","Rhodes College","TN","Private",16,26.9409523809524,0,1800,"$215,000","$24,000",84
+168,"209","Bowdoin College","ME","Private",16,26.9380561555076,-1,1800,"$1,548,000","$10,300",84
+169,"210","Gonzaga University","WA","Private",16,26.9056244041945,0,4900,"$82,000","$22,800",84
+170,"214","University of Denver","CO","Private",16,26.8996778916545,-1,5700,"$184,000","$25,000",84
+171,"208","Belmont University","TN","Private",16,26.896948297604,-1,6600,"$58,000","$26,400",84
+172,"218","Washington University in St. Louis","MO","Private",16,26.8949333333333,10,7700,"$1,773,000","$9,200",84
+173,"207","Baylor University","TX","Private",16,26.8872258064516,-8,14400,"$122,000","$30,400",84
+174,"215","University of Georgia","GA","Public",16,26.8847982863263,-6,29800,"$63,000","$15,800",84
+175,"225","Sarah Lawrence College","NY","Private",15,25.56640625,-3,1300,"$107,000","$21,800",85
+176,"222","Davidson College","NC","Private",15,25.5491329479769,2,2000,"$661,000","$11,800",85
+177,"227","Trinity College","CT","Private",15,25.5447368421053,2,2200,"$376,000","$14,200",85
+178,"226","Stonehill College","MA","Private",15,25.5380029806259,1,2400,"$128,000","$24,100",85
+179,"223","Endicott College","MA","Private",15,25.5329457364341,-6,3100,"$40,000","$28,800",85
+180,"220","Bentley University","MA","Private",15,25.5273311897106,-1,4100,"$89,000","$28,000",85
+181,"221","Butler University","IN","Private",15,25.5231607629428,-6,4500,"$63,000","$35,300",85
+182,"224","Quinnipiac University","CT","Private",15,25.5145216400911,-1,6800,"$116,000","$31,900",85
+183,"229","University of Vermont","VT","Public",15,25.510349025974,-7,11100,"$67,000","$15,900",85
+184,"240","Pitzer College","CA","Private",14,24.1875,0,900,"$211,000","$3,000",86
+185,"243","Union College","NY","Private",14,24.1736964980545,-3,2000,"$294,000","$20,700",86
+186,"247","Westmont College","CA","Private",14,24.1586928104575,-9,1200,"$72,000","$26,500",86
+187,"234","Colby College","ME","Private",14,24.1226194690266,4,2200,"$508,000","$3,300",86
+188,"235","Denison University","OH","Private",14,24.1198675496689,-5,2300,"$526,000","$20,300",86
+189,"232","Calvin University","MI","Private",14,24.1178616352201,-15,3200,"$76,000","$21,800",86
+190,"236","Emerson College","MA","Private",14,24.1056990394877,0,3700,"$65,000","$41,100",86
+191,"237","Georgetown University","DC","Private",14,24.0955154639175,0,7400,"$355,000","$10,600",86
+192,"233","Carnegie Mellon University","PA","Private",14,24.0947639484979,1,6600,"$477,000","$22,800",86
+193,"230","Brown University","RI","Private",14,24.0937207977208,-3,6800,"$1,002,000","$8,400",86
+194,"244","University of Chicago","IL","Private",14,24.0930444203684,-1,7100,"$1,361,000","$7,400",86
+195,"242","Texas Christian University","TX","Private",14,24.0905753184014,0,9700,"$207,000","$29,700",86
+196,"246","University of Miami","FL","Private",14,24.0902994011976,-8,11300,"$120,000","$19,100",86
+197,"245","University of Colorado, Boulder","CO","Public",14,24.083883244638,-2,30300,"—","$18,300",86
+198,"253","Harvey Mudd College","CA","Private",13,22.72875,1,900,"$505,000","$18,600",87
+199,"250","College of the Holy Cross","MA","Private",13,22.6508174386921,-7,3000,"$331,000","$14,600",87
+200,"249","Colgate University","NY","Private",13,22.6496073298429,2,3000,"$407,000","$15,300",87
+201,"252","Creighton University","NE","Private",13,22.6423297137216,-8,4500,"$150,000","$27,200",87
+202,"251","Colorado School of Mines","CO","Public",13,22.6393996569468,-6,5200,"$68,000","$16,800",87
+203,"254","Northeastern University","MA","Private",13,22.6272337703869,0,15200,"$82,000","$16,900",87
+204,"248","Clemson University","SC","Public",13,22.6254050179212,-4,20900,"$47,000","$20,800",87
+205,"261","Rose-Hulman Institute of Technology","IN","Private",12,21.158752293578,-9,2000,"$145,000","$30,000",88
+206,"262","Skidmore College","NY","Private",12,21.1494560669456,-5,2600,"$192,000","$17,200",88
+207,"259","Duke University","NC","Private",12,21.1333755541482,-1,6700,"$1,607,000","$10,300",88
+208,"264","Villanova University","PA","Private",12,21.1324822695035,1,7000,"$144,000","$20,500",88
+209,"263","University of Notre Dame","IN","Private",12,21.129648241206,0,8900,"$1,868,000","$14,600",88
+210,"257","Boston College","MA","Private",12,21.1287744079767,-4,9800,"$379,000","$12,800",88
+211,"258","Brigham Young University","UT","Private",12,21.1234805537244,-4,33400,"$78,000","$12,300",88
+212,"267","Reed College","OR","Private",11,19.6337912087912,-7,1400,"$553,000","$19,900",89
+213,"266","Furman University","SC","Private",11,19.6177992277992,-5,2300,"$336,000","$20,500",89
+214,"270","Yeshiva University","NY","Private",11,19.6157299270073,-9,2800,"$197,000","$33,500",89
+215,"269","William & Mary","VA","Public",11,19.5928985507246,1,6200,"$209,000","$10,700",89
+216,"268","Tufts University","MA","Private",11,19.5921313506816,1,6100,"$411,000","$15,100",89
+217,"265","Auburn University","AK","Public",11,19.5840221857026,-3,24500,"$41,000","$22,400",89
+218,"272","California Institute of Technology","CA","Private",10,18.0803571428571,1,900,"$4,597,000","$4,400",90
+219,"273","Kenyon College","OH","Private",10,18.0404494382023,0,1600,"$294,000","$19,000",90
+220,"277","Washington and Lee University","VA","Private",10,18.0393013100437,-1,1800,"$1,216,000","$4,100",90
+221,"274","Lafayette College","PA","Private",10,18.0297520661157,2,2500,"$408,000","$30,300",90
+222,"271","Bucknell University","PA","Private",10,18.0182741116751,-1,3700,"$295,000","$24,400",90
+223,"278","Worcester Polytechnic Institute","MA","Private",10,18.0139211136891,-5,4900,"$126,000","$37,200",90
+224,"275","Loyola Marymount University","CA","Private",10,18.0125786163522,-8,6700,"$98,000","$31,500",90
+225,"276","Wake Forest University","NC","Private",10,18.0124052377671,-4,5400,"$339,000","$10,000",90
+226,"281","Scripps College","CA","Private",9,16.4610891089109,-6,900,"$570,000","$27,600",91
+227,"280","Santa Clara University","CA","Private",9,16.3930414012739,-7,5600,"$275,000","$27,500",91
+228,"282","Southern Methodist University","TX","Private",9,16.3907198952879,-6,6800,"$291,000","$31,700",91
+229,"279","Elon University","NC","Private",9,16.3903474415666,-1,6300,"$53,000","$30,600",91
+230,"283","Bates College","ME","Private",8,14.7507949790795,-5,1900,"$248,000","$9,900",92
+231,"285","Oberlin College","OH","Private",8,14.7416789396171,-2,2600,"$438,000","$18,200",92
+232,"284","Fairfield University","CT","Private",8,14.7332136445243,-12,4400,"$94,000","$30,700",92
+233,"1","Berea College","KY","Private",94,11.3183673469388,1,1400,"$1,066,000","$4,400",6
+NA,"3","CUNY Baruch College","NY","Public",56,NA,5,15800,"$19,000","$6,700",44
+NA,"4","College of Mount St. Vincent","NY","Private",52,NA,-5,2300,"$17,000","$20,500",48
+NA,"10","University of New Mexico","NM","Public",42,NA,4,16200,"$43,000","$17,300",58
+NA,"20","University of California, Irvine","CA","Public",39,NA,1,29600,"$24,000","$10,100",61
+NA,"39","University of Montana","MT","Public",32,NA,-6,7000,"$45,000","$14,700",68
+NA,"47","University of California, Davis","CA","Public",30,NA,-9,31200,"$20,000","$14,200",70
+NA,"48","Cooper Union","NY","Private",29,NA,16,800,"$1,129,000","$4,800",71
+NA,"50","Louisiana State University","LA","Public",29,NA,9,27800,"$28,000","$20,400",71
+NA,"53","University of Nevada, Reno","NV","Public",29,NA,0,16800,"$30,000","$15,100",71
+NA,"55","University of Texas, Austin","TX","Public",29,NA,1,40000,"$160,000","$16,700",71
+NA,"58","Hobart and William Smith Colleges","NY","Private",28,NA,11,1800,"$159,000","$19,400",72
+NA,"59","University of California, Santa Barbara","CA","Public",28,NA,-6,23200,"$16,000","$14,700",72
+NA,"66","Rutgers University","NJ","Public",26,NA,-3,35800,"$40,000","$15,100",74
+NA,"70","University of Nebraska, Lincoln","NE","Public",26,NA,2,20300,"$71,000","$15,500",74
+NA,"72","Franklin & Marshall College","PA","Private",25,NA,12,2300,"$213,000","$20,000",75
+NA,"80","University of California, Berkeley","CA","Public",25,NA,-2,30800,"$91,000","$14,400",75
+NA,"85","University of Alabama, Huntsville","AK","Public",24,NA,-10,8000,"$14,000","$18,600",76
+NA,"86","University of California, San Diego","CA","Public",24,NA,-23,31800,"$37,000","$13,700",76
+NA,"89","University of Texas, Dallas","TX","Public",24,NA,-2,21200,"$40,000","$15,400",76
+NA,"92","College of Wooster","OH","Private",23,NA,4,1900,"$213,000","$17,800",77
+NA,"94","University of Hawaii, Manoa","HI","Public",23,NA,-5,13200,"$5,000","$14,100",77
+NA,"95","University of Oklahoma","OK","Public",23,NA,-1,21400,"$5,000","$19,900",77
+NA,"97","University of Tennessee","TN","Public",23,NA,-6,24300,"$43,000","$23,600",77
+NA,"109","University of California, Los Angeles","CA","Public",22,NA,-10,31600,"$93,000","$10,200",78
+NA,"118","Columbia University","NY","Private",21,NA,3,8100,"$1,702,000","—",79
+NA,"128","University of Missouri","MO","Public",21,NA,-1,23400,"$63,000","$14,100",79
+NA,"129","University of New Hampshire","NH","Public",21,NA,-3,11800,"$40,000","$17,200",79
+NA,"130","University of North Carolina, Chapel Hill","NC","Public",21,NA,1,19400,"$276,000","$13,500",79
+NA,"145","Texas A&M University","TX","Public",20,NA,-3,55600,"$329,000","$19,700",80
+NA,"147","University of Massachusetts, Amherst","MA","Public",20,NA,-5,24200,"$20,000","$11,300",80
+NA,"153","Indiana University, Bloomington","IN","Public",19,NA,-2,33000,"$50,000","$11,500",81
+NA,"159","St. Louis University","MO","Private",19,NA,-2,7700,"$195,000","$24,100",81
+NA,"160","University of Alabama","AK","Public",19,NA,-2,31700,"$41,000","$22,000",81
+NA,"163","University of South Carolina","SC","Public",19,NA,-2,27300,"$27,000","$20,000",81
+NA,"164","University of the South","TN","Private",19,NA,3,1700,"$305,000","$16,700",81
+NA,"168","College of New Jersey","NJ","Public",18,NA,1,7100,"$8,000","$13,200",82
+NA,"172","North Carolina State University","NC","Public",18,NA,-7,26200,"$79,000","$13,400",82
+NA,"178","University of Minnesota","MN","Public",18,NA,-5,36100,"$153,000","$11,600",82
+NA,"181","University of Washington","WA","Public",18,NA,-6,32200,"$146,000","$7,300",82
+NA,"198","Ohio State University","OH","Public",17,NA,-3,47000,"$152,000","$14,600",83
+NA,"203","University of Pittsburgh","PA","Public",17,NA,1,23200,"$278,000","$24,800",83
+NA,"205","University of Wisconsin, Madison","WI","Public",17,NA,2,32700,"$180,000","$9,800",83
+NA,"216","University of Michigan","MI","Public",16,NA,1,31300,"$535,000","$12,400",84
+NA,"217","Virginia Polytechnic Institute","VA","Public",16,NA,1,30000,"$54,000","$18,100",84
+NA,"228","University of Maryland, College Park","MD","Public",15,NA,0,30900,"$32,000","$17,300",85
+NA,"231","California Polytechnic State University, San Luis Obispo","CA","Public",14,NA,0,21500,"$14,000","$17,800",86
+NA,"238","Miami University","OH","Public",14,NA,-4,16500,"$40,000","$22,700",86
+NA,"239","Olin College of Engineering","MA","Private",14,NA,0,300,"$1,560,000","$8,300",86
+NA,"241","Purdue University","IN","Public",14,NA,-7,35700,"$101,000","$4,600",86
+NA,"255","Pennsylvania State University","PA","Public",13,NA,-3,40800,"$72,000","$29,200",87
+NA,"256","University of Virginia","VA","Public",13,NA,0,17300,"$598,000","$14,600",87
+NA,"260","Georgia Institute of Technology","GA","Public",12,NA,-5,16600,"$183,000","$14,800",88
+NA,"286","Tulane University","LA","Private",8,NA,-5,8500,"$225,000","$25,700",92

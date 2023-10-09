@@ -43,18 +43,18 @@ df <- cbind(df,Pell_In_2011=NA)
 df$Pell_In_2011 <- df$Freshmen_Pell_share + df$Pell_change_since_2011
 
 #retrieve IPEDS data from that year
-admission_2010 <- read_csv("IC2010/ic2010.csv",show_col_types=FALSE)
+admission_2010 <- read_csv("IPEDS/IC2010/ic2010.csv",show_col_types=FALSE)
 
 # this warning is a formatting error in a single row, and is therefore ignored
 suppressWarnings({
-  codebook_2010 <- read_csv("IC2010/hd2010.csv",show_col_types=FALSE)  
+  codebook_2010 <- read_csv("IPEDS/IC2010/hd2010.csv",show_col_types=FALSE)  
 })
 
-admission_2020 <- read_csv("ADM2020/adm2020.csv",show_col_types=FALSE)
-codebook_2020 <- read_csv("ADM2020/hd2020.csv",show_col_types=FALSE)
+admission_2020 <- read_csv("IPEDS/ADM2020/adm2020.csv",show_col_types=FALSE)
+codebook_2020 <- read_csv("IPEDS/ADM2020/hd2020.csv",show_col_types=FALSE)
 
 # done in google sheets by the author of this script based on the abbreviations used in the Times, possible source of error
-state_abs_codebook <- read_csv("times_state_abs_codebook.csv",show_col_types=FALSE)
+state_abs_codebook <- read_csv("codebooks/times_state_abs_codebook.csv",show_col_types=FALSE)
 
 # standardized encoding of state names across datasets
 df$State <- state_abs_codebook$Name[match(df$State,state_abs_codebook$Times_Ab)]

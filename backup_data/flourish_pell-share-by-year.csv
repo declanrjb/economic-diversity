@@ -1,0 +1,573 @@
+"College","Type","Pell_Share","State","Year"
+"college of the ozarks","Private",50,"MO",2020
+"agnes scott college","Private",47,"GA",2020
+"florida international university","Public",47,"FL",2020
+"pacific union college","Private",43,"CA",2020
+"houghton college","Private",42,"NY",2020
+"brescia university","Private",41,"KY",2020
+"stockton university","Public",41,"NJ",2020
+"earlham college","Private",40,"IN",2020
+"hampshire college","Private",39,"MA",2020
+"millsaps college","Private",40,"MS",2020
+"lake forest college","Private",40,"IL",2020
+"lyon college","Private",39,"AR",2020
+"christian brothers university","Private",39,"TN",2020
+"stony brook university","Public",39,"NY",2020
+"king university","Private",38,"TN",2020
+"loyola university new orleans","Private",38,"LA",2020
+"beloit college","Private",37,"WI",2020
+"university of the pacific","Private",37,"CA",2020
+"new college of florida","Public",35,"FL",2020
+"knox college","Private",35,"IL",2020
+"willamette university","Private",35,"OR",2020
+"new mexico institute of mining and technology","Public",34,"NM",2020
+"southwestern university","Private",34,"TX",2020
+"mount st marys university","Private",34,"MD",2020
+"university at buffalo","Public",34,"NY",2020
+"college of the atlantic","Private",33,"ME",2020
+"hanover college","Private",33,"IN",2020
+"allegheny college","Private",33,"PA",2020
+"william jewell college","Private",32,"MO",2020
+"austin college","Private",32,"TX",2020
+"illinois institute of technology","Private",32,"IL",2020
+"university of idaho","Public",32,"ID",2020
+"rowan university","Public",32,"NJ",2020
+"salem college","Private",69,"NC",2020
+"university of dallas","Private",31,"TX",2020
+"university of evansville","Private",31,"IN",2020
+"bennington college","Private",30,"VT",2020
+"kalamazoo college","Private",30,"MI",2020
+"ramapo college of new jersey","Public",30,"NJ",2020
+"rochester institute of technology","Private",30,"NY",2020
+"transylvania university","Private",29,"KY",2020
+"cornell college","Private",29,"IA",2020
+"mount holyoke college","Private",29,"MA",2020
+"university of south florida","Public",29,"FL",2020
+"hendrix college","Private",28,"AR",2020
+"george mason university","Public",28,"VA",2020
+"university of central florida","Public",28,"FL",2020
+"university of alaska fairbanks","Public",27,"AK",2020
+"augustana college","Private",27,"IL",2020
+"bard college","Private",26,"NY",2020
+"illinois wesleyan university","Private",26,"IL",2020
+"suny college at geneseo","Public",26,"NY",2020
+"university of maine","Public",26,"ME",2020
+"binghamton university","Public",26,"NY",2020
+"university of illinois urbanachampaign","Public",26,"IL",2020
+"st johns college","Private",25,"NM",2020
+"st johns college","Private",25,"MD",2020
+"rollins college","Private",25,"FL",2020
+"macalester college","Private",25,"MN",2020
+"susquehanna university","Private",25,"PA",2020
+"gustavus adolphus college","Private",25,"MN",2020
+"university of arizona","Public",25,"AZ",2020
+"florida state university","Public",25,"FL",2020
+"bard college at simons rock","Private",24,"MA",2020
+"lawrence university","Private",24,"WI",2020
+"berry college","Private",24,"GA",2020
+"university of south dakota","Public",24,"SD",2020
+"hofstra university","Private",24,"NY",2020
+"university of oregon","Public",24,"OR",2020
+"university of utah","Public",24,"UT",2020
+"claremont mckenna college","Private",23,"CA",2020
+"st marys college of maryland","Public",23,"MD",2020
+"wheaton college","Private",23,"MA",2020
+"university of rhode island","Public",23,"RI",2020
+"west virginia university","Public",23,"WV",2020
+"thomas aquinas college","Private",22,"CA",2020
+"centre college","Private",22,"KY",2020
+"grinnell college","Private",22,"IA",2020
+"swarthmore college","Private",22,"PA",2020
+"wheaton college","Private",22,"IL",2020
+"university of tulsa","Private",22,"OK",2020
+"st lawrence university","Private",22,"NY",2020
+"milwaukee school of engineering","Private",22,"WI",2020
+"wellesley college","Private",22,"MA",2020
+"st olaf college","Private",22,"MN",2020
+"harvard university","Private",22,"MA",2020
+"loyola university chicago","Private",22,"IL",2020
+"university of mississippi","Public",22,"MS",2020
+"university of connecticut","Public",22,"CT",2020
+"university of kentucky","Public",22,"KY",2020
+"university of florida","Public",22,"FL",2020
+"pomona college","Private",21,"CA",2020
+"amherst college","Private",21,"MA",2020
+"trinity university","Private",21,"TX",2020
+"truman state university","Public",21,"MO",2020
+"pepperdine university","Private",21,"CA",2020
+"seattle university","Private",21,"WA",2020
+"massachusetts institute of technology","Private",21,"MA",2020
+"michigan technological university","Public",21,"MI",2020
+"yale university","Private",21,"CT",2020
+"marquette university","Private",21,"WI",2020
+"fordham university","Private",21,"NY",2020
+"university of southern california","Private",21,"CA",2020
+"williams college","Private",20,"MA",2020
+"clark university","Private",20,"MA",2020
+"dickinson college","Private",20,"PA",2020
+"muhlenberg college","Private",20,"PA",2020
+"gettysburg college","Private",20,"PA",2020
+"drake university","Private",20,"IA",2020
+"stevens institute of technology","Private",20,"NJ",2020
+"johns hopkins university","Private",20,"MD",2020
+"rensselaer polytechnic institute","Private",20,"NY",2020
+"chapman university","Private",20,"CA",2020
+"stanford university","Private",20,"CA",2020
+"northwestern university","Private",20,"IL",2020
+"boston university","Private",20,"MA",2020
+"university of kansas","Public",20,"KS",2020
+"lewis clark college","Private",19,"OR",2020
+"smith college","Private",19,"MA",2020
+"colorado college","Private",19,"CO",2020
+"vassar college","Private",19,"NY",2020
+"middlebury college","Private",19,"VT",2020
+"babson college","Private",19,"MA",2020
+"cedarville university","Private",19,"OH",2020
+"loyola university maryland","Private",19,"MD",2020
+"emory university","Private",19,"GA",2020
+"university of rochester","Private",19,"NY",2020
+"lehigh university","Private",19,"PA",2020
+"university of pennsylvania","Private",19,"PA",2020
+"university of puget sound","Private",18,"WA",2020
+"occidental college","Private",18,"CA",2020
+"ursinus college","Private",18,"PA",2020
+"hamilton college","Private",18,"NY",2020
+"wofford college","Private",18,"SC",2020
+"barnard college","Private",18,"NY",2020
+"wesleyan university","Private",18,"CT",2020
+"university of san diego","Private",18,"CA",2020
+"princeton university","Private",18,"NJ",2020
+"american university","Private",18,"DC",2020
+"vanderbilt university","Private",18,"TN",2020
+"cornell university","Private",18,"NY",2020
+"syracuse university","Private",18,"NY",2020
+"university of iowa","Public",18,"IA",2020
+"university of arkansas","Public",18,"AR",2020
+"new york university","Private",18,"NY",2020
+"kettering university","Private",17,"MI",2020
+"bryn mawr college","Private",17,"PA",2020
+"depauw university","Private",17,"IN",2020
+"connecticut college","Private",17,"CT",2020
+"carleton college","Private",17,"MN",2020
+"brandeis university","Private",17,"MA",2020
+"hope college","Private",17,"MI",2020
+"university of richmond","Private",17,"VA",2020
+"rice university","Private",17,"TX",2020
+"providence college","Private",17,"RI",2020
+"dartmouth college","Private",17,"NH",2020
+"missouri university of science and technology","Public",17,"MO",2020
+"case western reserve university","Private",17,"OH",2020
+"georgia college state university","Public",17,"GA",2020
+"university of wyoming","Public",17,"WY",2020
+"university of north dakota","Public",17,"ND",2020
+"george washington university","Private",17,"DC",2020
+"university of delaware","Public",17,"DE",2020
+"whitman college","Private",16,"WA",2020
+"haverford college","Private",16,"PA",2020
+"taylor university","Private",16,"IN",2020
+"rhodes college","Private",16,"TN",2020
+"bowdoin college","Private",16,"ME",2020
+"gonzaga university","Private",16,"WA",2020
+"university of denver","Private",16,"CO",2020
+"belmont university","Private",16,"TN",2020
+"washington university in st louis","Private",16,"MO",2020
+"baylor university","Private",16,"TX",2020
+"university of georgia","Public",16,"GA",2020
+"sarah lawrence college","Private",15,"NY",2020
+"davidson college","Private",15,"NC",2020
+"trinity college","Private",15,"CT",2020
+"stonehill college","Private",15,"MA",2020
+"endicott college","Private",15,"MA",2020
+"bentley university","Private",15,"MA",2020
+"butler university","Private",15,"IN",2020
+"quinnipiac university","Private",15,"CT",2020
+"university of vermont","Public",15,"VT",2020
+"pitzer college","Private",14,"CA",2020
+"union college","Private",14,"NY",2020
+"westmont college","Private",14,"CA",2020
+"colby college","Private",14,"ME",2020
+"denison university","Private",14,"OH",2020
+"calvin university","Private",14,"MI",2020
+"emerson college","Private",14,"MA",2020
+"georgetown university","Private",14,"DC",2020
+"carnegie mellon university","Private",14,"PA",2020
+"brown university","Private",14,"RI",2020
+"university of chicago","Private",14,"IL",2020
+"texas christian university","Private",14,"TX",2020
+"university of miami","Private",14,"FL",2020
+"university of colorado boulder","Public",14,"CO",2020
+"harvey mudd college","Private",13,"CA",2020
+"college of the holy cross","Private",13,"MA",2020
+"colgate university","Private",13,"NY",2020
+"creighton university","Private",13,"NE",2020
+"colorado school of mines","Public",13,"CO",2020
+"northeastern university","Private",13,"MA",2020
+"clemson university","Public",13,"SC",2020
+"rosehulman institute of technology","Private",12,"IN",2020
+"skidmore college","Private",12,"NY",2020
+"duke university","Private",12,"NC",2020
+"villanova university","Private",12,"PA",2020
+"university of notre dame","Private",12,"IN",2020
+"boston college","Private",12,"MA",2020
+"brigham young university","Private",12,"UT",2020
+"reed college","Private",11,"OR",2020
+"furman university","Private",11,"SC",2020
+"yeshiva university","Private",11,"NY",2020
+"william mary","Public",11,"VA",2020
+"tufts university","Private",11,"MA",2020
+"auburn university","Public",11,"AK",2020
+"california institute of technology","Private",10,"CA",2020
+"kenyon college","Private",10,"OH",2020
+"washington and lee university","Private",10,"VA",2020
+"lafayette college","Private",10,"PA",2020
+"bucknell university","Private",10,"PA",2020
+"worcester polytechnic institute","Private",10,"MA",2020
+"loyola marymount university","Private",10,"CA",2020
+"wake forest university","Private",10,"NC",2020
+"scripps college","Private",9,"CA",2020
+"santa clara university","Private",9,"CA",2020
+"southern methodist university","Private",9,"TX",2020
+"elon university","Private",9,"NC",2020
+"bates college","Private",8,"ME",2020
+"oberlin college","Private",8,"OH",2020
+"fairfield university","Private",8,"CT",2020
+"berea college","Private",94,"KY",2020
+"cuny baruch college","Public",56,"NY",2020
+"college of mount st vincent","Private",52,"NY",2020
+"university of new mexico","Public",42,"NM",2020
+"university of california irvine","Public",39,"CA",2020
+"university of montana","Public",32,"MT",2020
+"university of california davis","Public",30,"CA",2020
+"cooper union","Private",29,"NY",2020
+"louisiana state university","Public",29,"LA",2020
+"university of nevada reno","Public",29,"NV",2020
+"university of texas austin","Public",29,"TX",2020
+"hobart and william smith colleges","Private",28,"NY",2020
+"university of california santa barbara","Public",28,"CA",2020
+"rutgers university","Public",26,"NJ",2020
+"university of nebraska lincoln","Public",26,"NE",2020
+"franklin marshall college","Private",25,"PA",2020
+"university of california berkeley","Public",25,"CA",2020
+"university of alabama huntsville","Public",24,"AK",2020
+"university of california san diego","Public",24,"CA",2020
+"university of texas dallas","Public",24,"TX",2020
+"college of wooster","Private",23,"OH",2020
+"university of hawaii manoa","Public",23,"HI",2020
+"university of oklahoma","Public",23,"OK",2020
+"university of tennessee","Public",23,"TN",2020
+"university of california los angeles","Public",22,"CA",2020
+"columbia university","Private",21,"NY",2020
+"university of missouri","Public",21,"MO",2020
+"university of new hampshire","Public",21,"NH",2020
+"university of north carolina chapel hill","Public",21,"NC",2020
+"texas am university","Public",20,"TX",2020
+"university of massachusetts amherst","Public",20,"MA",2020
+"indiana university bloomington","Public",19,"IN",2020
+"st louis university","Private",19,"MO",2020
+"university of alabama","Public",19,"AK",2020
+"university of south carolina","Public",19,"SC",2020
+"university of the south","Private",19,"TN",2020
+"college of new jersey","Public",18,"NJ",2020
+"north carolina state university","Public",18,"NC",2020
+"university of minnesota","Public",18,"MN",2020
+"university of washington","Public",18,"WA",2020
+"ohio state university","Public",17,"OH",2020
+"university of pittsburgh","Public",17,"PA",2020
+"university of wisconsin madison","Public",17,"WI",2020
+"university of michigan","Public",16,"MI",2020
+"virginia polytechnic institute","Public",16,"VA",2020
+"university of maryland college park","Public",15,"MD",2020
+"california polytechnic state university san luis obispo","Public",14,"CA",2020
+"miami university","Public",14,"OH",2020
+"olin college of engineering","Private",14,"MA",2020
+"purdue university","Public",14,"IN",2020
+"pennsylvania state university","Public",13,"PA",2020
+"university of virginia","Public",13,"VA",2020
+"georgia institute of technology","Public",12,"GA",2020
+"tulane university","Private",8,"LA",2020
+"college of the ozarks","Private",30,"MO",2010
+"agnes scott college","Private",51,"GA",2010
+"florida international university","Public",43,"FL",2010
+"pacific union college","Private",48,"CA",2010
+"houghton college","Private",41,"NY",2010
+"brescia university","Private",24,"KY",2010
+"stockton university","Public",41,"NJ",2010
+"earlham college","Private",49,"IN",2010
+"hampshire college","Private",56,"MA",2010
+"millsaps college","Private",59,"MS",2010
+"lake forest college","Private",38,"IL",2010
+"lyon college","Private",26,"AR",2010
+"christian brothers university","Private",30,"TN",2010
+"stony brook university","Public",40,"NY",2010
+"king university","Private",34,"TN",2010
+"loyola university new orleans","Private",43,"LA",2010
+"beloit college","Private",50,"WI",2010
+"university of the pacific","Private",39,"CA",2010
+"new college of florida","Public",44,"FL",2010
+"knox college","Private",43,"IL",2010
+"willamette university","Private",43,"OR",2010
+"new mexico institute of mining and technology","Public",39,"NM",2010
+"southwestern university","Private",44,"TX",2010
+"mount st marys university","Private",40,"MD",2010
+"university at buffalo","Public",40,"NY",2010
+"college of the atlantic","Private",23,"ME",2010
+"hanover college","Private",33,"IN",2010
+"allegheny college","Private",37,"PA",2010
+"william jewell college","Private",32,"MO",2010
+"austin college","Private",32,"TX",2010
+"illinois institute of technology","Private",36,"IL",2010
+"university of idaho","Public",26,"ID",2010
+"rowan university","Public",33,"NJ",2010
+"salem college","Private",85,"NC",2010
+"university of dallas","Private",36,"TX",2010
+"university of evansville","Private",31,"IN",2010
+"bennington college","Private",36,"VT",2010
+"kalamazoo college","Private",42,"MI",2010
+"ramapo college of new jersey","Public",35,"NJ",2010
+"rochester institute of technology","Private",25,"NY",2010
+"transylvania university","Private",30,"KY",2010
+"cornell college","Private",25,"IA",2010
+"mount holyoke college","Private",37,"MA",2010
+"university of south florida","Public",16,"FL",2010
+"hendrix college","Private",35,"AR",2010
+"george mason university","Public",31,"VA",2010
+"university of central florida","Public",26,"FL",2010
+"university of alaska fairbanks","Public",23,"AK",2010
+"augustana college","Private",29,"IL",2010
+"bard college","Private",32,"NY",2010
+"illinois wesleyan university","Private",32,"IL",2010
+"suny college at geneseo","Public",31,"NY",2010
+"university of maine","Public",18,"ME",2010
+"binghamton university","Public",26,"NY",2010
+"university of illinois urbanachampaign","Public",31,"IL",2010
+"st johns college","Private",6,"NM",2010
+"st johns college","Private",29,"MD",2010
+"rollins college","Private",23,"FL",2010
+"macalester college","Private",32,"MN",2010
+"susquehanna university","Private",27,"PA",2010
+"gustavus adolphus college","Private",22,"MN",2010
+"university of arizona","Public",18,"AZ",2010
+"florida state university","Public",22,"FL",2010
+"bard college at simons rock","Private",12,"MA",2010
+"lawrence university","Private",28,"WI",2010
+"berry college","Private",19,"GA",2010
+"university of south dakota","Public",15,"SD",2010
+"hofstra university","Private",24,"NY",2010
+"university of oregon","Public",25,"OR",2010
+"university of utah","Public",28,"UT",2010
+"claremont mckenna college","Private",31,"CA",2010
+"st marys college of maryland","Public",32,"MD",2010
+"wheaton college","Private",24,"MA",2010
+"university of rhode island","Public",20,"RI",2010
+"west virginia university","Public",15,"WV",2010
+"thomas aquinas college","Private",7,"CA",2010
+"centre college","Private",28,"KY",2010
+"grinnell college","Private",20,"IA",2010
+"swarthmore college","Private",30,"PA",2010
+"wheaton college","Private",24,"IL",2010
+"university of tulsa","Private",23,"OK",2010
+"st lawrence university","Private",25,"NY",2010
+"milwaukee school of engineering","Private",18,"WI",2010
+"wellesley college","Private",25,"MA",2010
+"st olaf college","Private",27,"MN",2010
+"harvard university","Private",26,"MA",2010
+"loyola university chicago","Private",15,"IL",2010
+"university of mississippi","Public",14,"MS",2010
+"university of connecticut","Public",25,"CT",2010
+"university of kentucky","Public",19,"KY",2010
+"university of florida","Public",15,"FL",2010
+"pomona college","Private",27,"CA",2010
+"amherst college","Private",19,"MA",2010
+"trinity university","Private",25,"TX",2010
+"truman state university","Public",22,"MO",2010
+"pepperdine university","Private",11,"CA",2010
+"seattle university","Private",18,"WA",2010
+"massachusetts institute of technology","Private",23,"MA",2010
+"michigan technological university","Public",14,"MI",2010
+"yale university","Private",29,"CT",2010
+"marquette university","Private",22,"WI",2010
+"fordham university","Private",23,"NY",2010
+"university of southern california","Private",24,"CA",2010
+"williams college","Private",19,"MA",2010
+"clark university","Private",21,"MA",2010
+"dickinson college","Private",28,"PA",2010
+"muhlenberg college","Private",32,"PA",2010
+"gettysburg college","Private",27,"PA",2010
+"drake university","Private",21,"IA",2010
+"stevens institute of technology","Private",15,"NJ",2010
+"johns hopkins university","Private",28,"MD",2010
+"rensselaer polytechnic institute","Private",21,"NY",2010
+"chapman university","Private",22,"CA",2010
+"stanford university","Private",24,"CA",2010
+"northwestern university","Private",25,"IL",2010
+"boston university","Private",23,"MA",2010
+"university of kansas","Public",18,"KS",2010
+"lewis clark college","Private",18,"OR",2010
+"smith college","Private",18,"MA",2010
+"colorado college","Private",26,"CO",2010
+"vassar college","Private",11,"NY",2010
+"middlebury college","Private",28,"VT",2010
+"babson college","Private",21,"MA",2010
+"cedarville university","Private",21,"OH",2010
+"loyola university maryland","Private",24,"MD",2010
+"emory university","Private",15,"GA",2010
+"university of rochester","Private",19,"NY",2010
+"lehigh university","Private",22,"PA",2010
+"university of pennsylvania","Private",22,"PA",2010
+"university of puget sound","Private",15,"WA",2010
+"occidental college","Private",11,"CA",2010
+"ursinus college","Private",6,"PA",2010
+"hamilton college","Private",19,"NY",2010
+"wofford college","Private",11,"SC",2010
+"barnard college","Private",14,"NY",2010
+"wesleyan university","Private",20,"CT",2010
+"university of san diego","Private",20,"CA",2010
+"princeton university","Private",25,"NJ",2010
+"american university","Private",21,"DC",2010
+"vanderbilt university","Private",23,"TN",2010
+"cornell university","Private",21,"NY",2010
+"syracuse university","Private",11,"NY",2010
+"university of iowa","Public",19,"IA",2010
+"university of arkansas","Public",12,"AR",2010
+"new york university","Private",16,"NY",2010
+"kettering university","Private",0,"MI",2010
+"bryn mawr college","Private",16,"PA",2010
+"depauw university","Private",12,"IN",2010
+"connecticut college","Private",21,"CT",2010
+"carleton college","Private",21,"MN",2010
+"brandeis university","Private",15,"MA",2010
+"hope college","Private",12,"MI",2010
+"university of richmond","Private",20,"VA",2010
+"rice university","Private",18,"TX",2010
+"providence college","Private",18,"RI",2010
+"dartmouth college","Private",21,"NH",2010
+"missouri university of science and technology","Public",6,"MO",2010
+"case western reserve university","Private",13,"OH",2010
+"georgia college state university","Public",14,"GA",2010
+"university of wyoming","Public",13,"WY",2010
+"university of north dakota","Public",11,"ND",2010
+"george washington university","Private",21,"DC",2010
+"university of delaware","Public",21,"DE",2010
+"whitman college","Private",18,"WA",2010
+"haverford college","Private",16,"PA",2010
+"taylor university","Private",6,"IN",2010
+"rhodes college","Private",16,"TN",2010
+"bowdoin college","Private",15,"ME",2010
+"gonzaga university","Private",16,"WA",2010
+"university of denver","Private",15,"CO",2010
+"belmont university","Private",15,"TN",2010
+"washington university in st louis","Private",26,"MO",2010
+"baylor university","Private",8,"TX",2010
+"university of georgia","Public",10,"GA",2010
+"sarah lawrence college","Private",12,"NY",2010
+"davidson college","Private",17,"NC",2010
+"trinity college","Private",17,"CT",2010
+"stonehill college","Private",16,"MA",2010
+"endicott college","Private",9,"MA",2010
+"bentley university","Private",14,"MA",2010
+"butler university","Private",9,"IN",2010
+"quinnipiac university","Private",14,"CT",2010
+"university of vermont","Public",8,"VT",2010
+"pitzer college","Private",14,"CA",2010
+"union college","Private",11,"NY",2010
+"westmont college","Private",5,"CA",2010
+"colby college","Private",18,"ME",2010
+"denison university","Private",9,"OH",2010
+"calvin university","Private",-1,"MI",2010
+"emerson college","Private",14,"MA",2010
+"georgetown university","Private",14,"DC",2010
+"carnegie mellon university","Private",15,"PA",2010
+"brown university","Private",11,"RI",2010
+"university of chicago","Private",13,"IL",2010
+"texas christian university","Private",14,"TX",2010
+"university of miami","Private",6,"FL",2010
+"university of colorado boulder","Public",12,"CO",2010
+"harvey mudd college","Private",14,"CA",2010
+"college of the holy cross","Private",6,"MA",2010
+"colgate university","Private",15,"NY",2010
+"creighton university","Private",5,"NE",2010
+"colorado school of mines","Public",7,"CO",2010
+"northeastern university","Private",13,"MA",2010
+"clemson university","Public",9,"SC",2010
+"rosehulman institute of technology","Private",3,"IN",2010
+"skidmore college","Private",7,"NY",2010
+"duke university","Private",11,"NC",2010
+"villanova university","Private",13,"PA",2010
+"university of notre dame","Private",12,"IN",2010
+"boston college","Private",8,"MA",2010
+"brigham young university","Private",8,"UT",2010
+"reed college","Private",4,"OR",2010
+"furman university","Private",6,"SC",2010
+"yeshiva university","Private",2,"NY",2010
+"william mary","Public",12,"VA",2010
+"tufts university","Private",12,"MA",2010
+"auburn university","Public",8,"AK",2010
+"california institute of technology","Private",11,"CA",2010
+"kenyon college","Private",10,"OH",2010
+"washington and lee university","Private",9,"VA",2010
+"lafayette college","Private",12,"PA",2010
+"bucknell university","Private",9,"PA",2010
+"worcester polytechnic institute","Private",5,"MA",2010
+"loyola marymount university","Private",2,"CA",2010
+"wake forest university","Private",6,"NC",2010
+"scripps college","Private",3,"CA",2010
+"santa clara university","Private",2,"CA",2010
+"southern methodist university","Private",3,"TX",2010
+"elon university","Private",8,"NC",2010
+"bates college","Private",3,"ME",2010
+"oberlin college","Private",6,"OH",2010
+"fairfield university","Private",-4,"CT",2010
+"berea college","Private",95,"KY",2010
+"cuny baruch college","Public",61,"NY",2010
+"college of mount st vincent","Private",47,"NY",2010
+"university of new mexico","Public",46,"NM",2010
+"university of california irvine","Public",40,"CA",2010
+"university of montana","Public",26,"MT",2010
+"university of california davis","Public",21,"CA",2010
+"cooper union","Private",45,"NY",2010
+"louisiana state university","Public",38,"LA",2010
+"university of nevada reno","Public",29,"NV",2010
+"university of texas austin","Public",30,"TX",2010
+"hobart and william smith colleges","Private",39,"NY",2010
+"university of california santa barbara","Public",22,"CA",2010
+"rutgers university","Public",23,"NJ",2010
+"university of nebraska lincoln","Public",28,"NE",2010
+"franklin marshall college","Private",37,"PA",2010
+"university of california berkeley","Public",23,"CA",2010
+"university of alabama huntsville","Public",14,"AK",2010
+"university of california san diego","Public",1,"CA",2010
+"university of texas dallas","Public",22,"TX",2010
+"college of wooster","Private",27,"OH",2010
+"university of hawaii manoa","Public",18,"HI",2010
+"university of oklahoma","Public",22,"OK",2010
+"university of tennessee","Public",17,"TN",2010
+"university of california los angeles","Public",12,"CA",2010
+"columbia university","Private",24,"NY",2010
+"university of missouri","Public",20,"MO",2010
+"university of new hampshire","Public",18,"NH",2010
+"university of north carolina chapel hill","Public",22,"NC",2010
+"texas am university","Public",17,"TX",2010
+"university of massachusetts amherst","Public",15,"MA",2010
+"indiana university bloomington","Public",17,"IN",2010
+"st louis university","Private",17,"MO",2010
+"university of alabama","Public",17,"AK",2010
+"university of south carolina","Public",17,"SC",2010
+"university of the south","Private",22,"TN",2010
+"college of new jersey","Public",19,"NJ",2010
+"north carolina state university","Public",11,"NC",2010
+"university of minnesota","Public",13,"MN",2010
+"university of washington","Public",12,"WA",2010
+"ohio state university","Public",14,"OH",2010
+"university of pittsburgh","Public",18,"PA",2010
+"university of wisconsin madison","Public",19,"WI",2010
+"university of michigan","Public",17,"MI",2010
+"virginia polytechnic institute","Public",17,"VA",2010
+"university of maryland college park","Public",15,"MD",2010
+"california polytechnic state university san luis obispo","Public",14,"CA",2010
+"miami university","Public",10,"OH",2010
+"olin college of engineering","Private",14,"MA",2010
+"purdue university","Public",7,"IN",2010
+"pennsylvania state university","Public",10,"PA",2010
+"university of virginia","Public",13,"VA",2010
+"georgia institute of technology","Public",7,"GA",2010
+"tulane university","Private",3,"LA",2010
