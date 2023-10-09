@@ -34,7 +34,9 @@ make_freshman_retriever <- function(year) {
 
 soft_parse_number <- function(x) {
   if (is.character(x)) {
-    return(parse_number(x))
+    suppressWarnings({
+      return(parse_number(x))
+    })
   } else if (is.numeric(x)) {
     return(x)
   } else {
