@@ -12,13 +12,13 @@ df$Freshmen_Pell_share <- parse_number(df$Freshmen_Pell_share)
 df <- cbind(df,Pell_In_2011=NA)
 df$Pell_In_2011 <- df$Freshmen_Pell_share + df$Pell_change_since_2011
 
-admission_2010 <- read_csv("IC2010/ic2010.csv")
-codebook_2010 <- read_csv("IC2010/hd2010.csv")
+admission_2010 <- read_csv("IPEDS/IC2010/ic2010.csv")
+codebook_2010 <- read_csv("IPEDS/IC2010/hd2010.csv")
 
-admission_2020 <- read_csv("ADM2020/adm2020.csv")
-codebook_2020 <- read_csv("ADM2020/hd2020.csv")
+admission_2020 <- read_csv("IPEDS/ADM2020/adm2020.csv")
+codebook_2020 <- read_csv("IPEDS/ADM2020/hd2020.csv")
 
-state_abs_codebook <- read_csv("times_state_abs_codebook.csv")
+state_abs_codebook <- read_csv("codebooks/times_state_abs_codebook.csv")
 
 df$State <- state_abs_codebook$Name[match(df$State,state_abs_codebook$Times_Ab)]
 df$State <- soft_match(df$State,state.name,state.abb)
@@ -74,13 +74,13 @@ colnames(times_df) <- c("Name","State","Type","Freshmen_Pell_share","Ranking")
 times_df <- cbind(times_df,Type_Of_Ranking="Times")
 
 flourish_rankings <- rbind(simpsons_df,times_df)
-write.csv(flourish_rankings,"flourish_rankings.csv",row.names=FALSE)
+write.csv(flourish_rankings,"backup_data/flourish_rankings.csv",row.names=FALSE)
 
 public_table <- df %>% select(Simpsons_Rank,Times_Rank,Preserved_Name,State,Type,Freshmen_Pell_share,Simpsons,Pell_change_since_2011,Total_undergraduates,Endowment_per_student,`Net_price,_mid-income`)
 public_table$Simpsons <- public_table$Simpsons %>% multiply_by(100)
 public_table <- cbind(public_table,Freshmen_Non_Pell_share=NA)
 public_table$Freshmen_Non_Pell_share <- 100 - public_table$Freshmen_Pell_share
-write.csv(public_table,"public_table.csv",row.names=FALSE)
+write.csv(public_table,"backup_data/public_table.csv",row.names=FALSE)
 
 # export some data to flourish
 curr_df <- df %>% select(College,Type,Freshmen_Pell_share,State)
@@ -95,6 +95,6 @@ df_2011$Year <- 2010
 
 bound_df <- rbind(curr_df,df_2011)
 
-write.csv(bound_df,"flourish_pell-share-by-year.csv",row.names=FALSE)
+write.csv(bound_df,"backup_data/flourish_pell-share-by-year.csv",row.names=FALSE)
 
 
