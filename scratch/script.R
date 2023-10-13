@@ -10,7 +10,7 @@ df$Times_Rank <- rownames(df)
 
 df$Freshmen_Pell_share <- parse_number(df$Freshmen_Pell_share)
 df <- cbind(df,Pell_In_2011=NA)
-df$Pell_In_2011 <- df$Freshmen_Pell_share + df$Pell_change_since_2011
+df$Pell_In_2011 <- df$Freshmen_Pell_share + -(df$Pell_change_since_2011)
 
 admission_2010 <- read_csv("IPEDS/IC2010/ic2010.csv")
 codebook_2010 <- read_csv("IPEDS/IC2010/hd2010.csv")
@@ -94,6 +94,7 @@ df_2011 <- cbind(df_2011,Year=NA)
 df_2011$Year <- 2010
 
 bound_df <- rbind(curr_df,df_2011)
+bound_df$College <- str_to_title(bound_df$College)
 
 write.csv(bound_df,"backup_data/flourish_pell-share-by-year.csv",row.names=FALSE)
 
